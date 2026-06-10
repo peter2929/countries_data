@@ -5,6 +5,7 @@ In .env set credentials (you can just rename .env.example to .env)
 Launch docker compose (might need sudo)
 ```
 docker compose up -d --build
+docker compose exec php php artisan key:generate
 ```
 
 Run migrations
