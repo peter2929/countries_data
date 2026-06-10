@@ -18,4 +18,9 @@ Open the app
 http://localhost:8080/
 ```
 
+Launch tests
+```
+docker compose exec php php artisan test
+```
+
 AI was used to create Docker configuration.
