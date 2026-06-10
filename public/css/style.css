@@ -1,0 +1,25 @@
+.main-menu {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    padding: 1rem 0;
+    font-size: 20px;
+}
+
+.main-menu a {
+    color: black;
+    text-decoration: none;
+}
+
+.message {
+    text-align: center;
+}
+
+.tables-container {
+    text-align: center;
+}
+
+.tables-container table {
+    margin: 1rem auto;
+}
+
