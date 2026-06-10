@@ -18,3 +18,4 @@ Open the app
 http://localhost:8080/
 ```
 
+AI was used to create Docker configuration.
